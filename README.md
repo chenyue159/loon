@@ -10,19 +10,6 @@
 
 ------
 
-#### 机场推荐
-
-[ENET - 全专线 IEPL/UDPN IPLC 专线机场](Resource/Ad/ENET.md)
-
-[CornSS - 全 IEPL 专线机场](Resource/Ad/ENET.md)
-
-------
-
-#### 广告
-[![ADBanner1](Resource/IMG/Banner/ADBanner-1.png)](https://t.me/ibilibili)
-
-------
-
 #### 配置模板
 
 > [!TIP]
